@@ -1,5 +1,5 @@
-url: 
-baseurl: /creativetrours
+url: https://creativetrours.eu
+baseurl: 
 
 # Site settings
 title: Тренинг-тур в Грузию
@@ -10,6 +10,10 @@ description: "Мастер-классы по актерскому мастерс
 social:
   - title: instagram
     url: http://www.instagram.com/magic_gruzija
+  - title: envelope
+    url: mailto:teatral.tallinn@gmail.com
+  - title: phone
+    url: callto:+37255994317
 
 # Build settings
 markdown: kramdown
