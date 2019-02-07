@@ -1,0 +1,16 @@
+url: 
+baseurl: /creativetrours
+
+# Site settings
+title: Тренинг-тур в Грузию
+email: teatral.tallinn@gmail.com
+description: "Мастер-классы по актерскому мастерству, приправленные красотами Грузии."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: http://www.instagram.com/magic_gruzija
+
+# Build settings
+markdown: kramdown
+permalink: pretty
