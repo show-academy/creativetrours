@@ -13,8 +13,10 @@ social:
   - title: envelope
     url: mailto:teatral.tallinn@gmail.com
   - title: phone
-    url: callto:+37255994317
+    url: tel:+37255994317
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+google_tag: UA-124908281-3
