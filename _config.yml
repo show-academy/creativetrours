@@ -2,21 +2,23 @@ url: https://creativetrours.eu
 baseurl: 
 
 # Site settings
-title: Тренинг-тур в Грузию
+title: "Тренинг-тур в Грузию 23-30 мая"
 email: teatral.tallinn@gmail.com
 description: "Мастер-классы по актерскому мастерству, приправленные красотами Грузии."
+thumbnail: "/img/site-thumbnail.png"
+
+google_tag: UA-124908281-3
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: http://www.instagram.com/magic_gruzija
+    url: "http://www.instagram.com/magic_gruzija?hl=ru"
   - title: envelope
-    url: mailto:teatral.tallinn@gmail.com
+    url: "mailto:teatral.tallinn@gmail.com"
   - title: phone
-    url: tel:+37255994317
+    url: "tel:+37255994317"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
-google_tag: UA-124908281-3
