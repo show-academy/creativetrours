@@ -20,6 +20,10 @@ social:
   - title: phone
     url: "tel:+37255994317"
 
+# ideal image slider
+iis_slider_enabled: 1
+iis_slider_array: []
+
 # Build settings
 markdown: kramdown
 permalink: pretty
